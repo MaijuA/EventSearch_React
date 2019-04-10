@@ -1,3 +1,3 @@
 ## Event Search React App
 
-https://eventsearchreact.herokuapp.com/
+[Event Search](https://eventsearchreact.herokuapp.com/" target="_blank)
