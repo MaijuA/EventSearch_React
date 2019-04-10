@@ -1,0 +1,19 @@
+.event {
+    margin: 1rem;
+    width: 15rem;
+    float: left;
+}
+
+.location {
+    font-style: italic;
+}
+
+@media screen and (min-width: 768px) {
+    .event {
+        height: 43rem;
+    }
+}
+
+
+
+

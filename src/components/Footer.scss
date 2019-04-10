@@ -1,0 +1,26 @@
+.media-img {
+    max-width: 50%;
+}
+
+.footer-text {
+    color: #fff;
+    text-align: center;
+}
+
+.footer-thumbnail {
+    position: relative;
+    padding: 1em 1em 1em;
+    background-color: rgba(52, 52, 52, 0.0);
+    color: #fff;
+    text-align: center;
+}
+a[href] .footer-thumbnail:hover {
+    cursor: pointer;
+
+    background: #575757;
+    
+}
+
+.logo {
+    color: white;
+}
